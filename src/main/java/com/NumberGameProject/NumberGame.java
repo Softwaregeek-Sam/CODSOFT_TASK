@@ -1,4 +1,4 @@
-package com.NumberGame.Project;
+package com.NumberGameProject;
 
 
 
