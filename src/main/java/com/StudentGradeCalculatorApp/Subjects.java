@@ -5,5 +5,5 @@ public enum Subjects {
     MATH,
     OPERATING_SYSTEM,
     JAVA,
-    COMPILER_DESIGN;
+    COMPILER_DESIGN
 }
