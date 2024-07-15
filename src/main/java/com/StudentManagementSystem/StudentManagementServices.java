@@ -102,7 +102,7 @@ public class StudentManagementServices {
 
                     Student student = new Student(name, branchName, phoneNumber);
                     student.setRollNo(rollNo);
-                    System.out.println(student.toString());
+                    System.out.println(student);
                 }
             }
 

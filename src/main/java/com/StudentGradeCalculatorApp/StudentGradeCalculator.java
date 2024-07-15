@@ -6,7 +6,7 @@ public class StudentGradeCalculator {
     public static void main(String[] args) {
          Scanner scanner = new Scanner(System.in);
          StudentGrades studentGrades = new StudentGrades();
-
+//            reading user input
          for(Subjects subject : Subjects.values()){
              int marks = -1;
              while(marks < 0 || marks >100){
